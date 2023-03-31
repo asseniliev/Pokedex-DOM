@@ -2,7 +2,7 @@
 
 [Link to Vercel deployment](https://pokedex-dom.vercel.app/)
 
-My mail is a simple one-page html developped as part of the 
+Pokedex-DOM is a simple one-page html developped as part of the 
 fullstack web development bootcamp in La Capsule (Lyon, 2023). 
 
 ![Pokedex](frontPage.jpg)
