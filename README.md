@@ -1,6 +1,6 @@
 # Pokedex-DOM
 
-[Link to Vercel](https://pokedex-dom.vercel.app/)
+[Link to Vercel deployment](https://pokedex-dom.vercel.app/)
 
 My mail is a simple one-page html developped as part of the 
 fullstack web development bootcamp in La Capsule (Lyon, 2023). 
